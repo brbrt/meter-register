@@ -13,4 +13,4 @@ ADD . /webapp
 WORKDIR /webapp
 
 EXPOSE 5080
-CMD ["node", "-v"]
+CMD ["node", "index.js"]

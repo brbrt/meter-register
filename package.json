@@ -23,6 +23,7 @@
     "handlebars": "^3.0.3",
     "nconf": "^0.7.1",
     "q": "^1.4.1",
-    "require-all": "^1.1.0"
+    "require-all": "^1.1.0",
+    "winston": "^2.1.1"
   }
 }
