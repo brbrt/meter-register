@@ -1,0 +1,28 @@
+{
+  "name": "meter-register",
+  "version": "1.0.0",
+  "description": "meter-register",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brbrt/meter-register.git"
+  },
+  "author": "brbrt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brbrt/meter-register/issues"
+  },
+  "homepage": "https://github.com/brbrt/meter-register",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.12.4",
+    "express-handlebars": "^2.0.1",
+    "handlebars": "^3.0.3",
+    "nconf": "^0.7.1",
+    "q": "^1.4.1",
+    "require-all": "^1.1.0"
+  }
+}
